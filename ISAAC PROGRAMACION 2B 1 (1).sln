@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISAAC PROGRAMACION 2B 1", "ISAAC PROGRAMACION 2B 1.csproj", "{721CDFA7-B652-4866-8D72-63ADB814FCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721CDFA7-B652-4866-8D72-63ADB814FCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721CDFA7-B652-4866-8D72-63ADB814FCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721CDFA7-B652-4866-8D72-63ADB814FCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721CDFA7-B652-4866-8D72-63ADB814FCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1D42AD-D91E-42F3-8790-49F09C5ABE77}
+	EndGlobalSection
+EndGlobal
