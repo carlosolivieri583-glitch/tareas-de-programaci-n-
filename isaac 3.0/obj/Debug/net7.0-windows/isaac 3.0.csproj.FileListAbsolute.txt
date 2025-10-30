@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac_3._0.Form1.resources
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\bin\Debug\net7.0-windows\isaac 3.0.exe
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\bin\Debug\net7.0-windows\isaac 3.0.deps.json
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\bin\Debug\net7.0-windows\isaac 3.0.runtimeconfig.json
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\bin\Debug\net7.0-windows\isaac 3.0.dll
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\bin\Debug\net7.0-windows\isaac 3.0.pdb
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.dll
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\refint\isaac 3.0.dll
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.pdb
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\isaac 3.0.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac 3.0\obj\Debug\net7.0-windows\ref\isaac 3.0.dll

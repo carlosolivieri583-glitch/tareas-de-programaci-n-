@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\bin\Debug\net7.0-windows\isaac3.1.exe
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\bin\Debug\net7.0-windows\isaac3.1.deps.json
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\bin\Debug\net7.0-windows\isaac3.1.runtimeconfig.json
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\bin\Debug\net7.0-windows\isaac3.1.dll
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\bin\Debug\net7.0-windows\isaac3.1.pdb
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3._1.Form1.resources
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.dll
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\refint\isaac3.1.dll
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.pdb
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\isaac3.1.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\GIFARACELY\isaac3.1\obj\Debug\net7.0-windows\ref\isaac3.1.dll
